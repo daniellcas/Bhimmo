@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bhimmo conhecido como Daniel
-- 🌱 I’m currently learning: Dev back-end
+- 🌱 I’m currently learning: back-end
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40">
 
