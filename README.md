@@ -5,7 +5,6 @@
 
 <div>
     <a href="https://github.com/Bhimmo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhimmo&show_icons=true&theme=highcontrast">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhimmo&theme=highcontrast&layout=compact">
 </div>
     
