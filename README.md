@@ -1,7 +1,7 @@
 ## Hey! my name is Daniel
 
-- 🎓 Work: Developer Full Stack
-- 📚 Study: Vue and Nest
+- 🎓 Work: backend Developer
+- 📚 Study: Node.js and Python
 
 <div>
     <a href="https://github.com/Bhimmo">
