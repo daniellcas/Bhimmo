@@ -1,7 +1,7 @@
 ## Hey! my name is Daniel
 
 - 🎓 Work: backend Developer
-- 📚 Study: Node.js and Python
+- 📚 Study: Node.js
 
 <div>
     <a href="https://github.com/Bhimmo">
