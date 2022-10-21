@@ -1,12 +1,16 @@
 ## Hey! my name is Daniel
 
-- 🎓 Work: backend Developer
-- 📚 Study: Node.js
+- Work: Backend Developer
+- Study: DevOps
 
-<div>
-    <a href="https://github.com/Bhimmo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhimmo&theme=highcontrast&layout=compact">
-</div>
+<!--START_SECTION:waka-->
+
+```text
+Python   3 hrs 48 mins   ████████████████████████▓   99.20 %
+Text     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+```
+
+<!--END_SECTION:waka-->
     
 <div>
     <a href="https://www.linkedin.com/in/daniel-lucas-bb7b82193/" target="_blank">
