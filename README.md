@@ -6,8 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   35 mins         █████████████████░░░░░░░░   67.66 %
-Bash         17 mins         ████████░░░░░░░░░░░░░░░░░   32.34 %
+Bash   8 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
