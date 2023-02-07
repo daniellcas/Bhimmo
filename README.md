@@ -6,10 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Bash         12 mins         ██████████████████████▓░░   90.17 %
-Markdown     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-JavaScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
