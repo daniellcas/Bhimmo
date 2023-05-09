@@ -1,7 +1,7 @@
 ## Hey! my name is Daniel
 
-- Work: Backend Developer
-- studying: Devops
+- Work: FullStack - Developer
+- studying: Game developer
 
 <!--START_SECTION:waka-->
 
