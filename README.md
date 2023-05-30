@@ -6,8 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other   0 secs          █████████████████░░░░░░░░   67.92 %
-Bash    0 secs          ████████░░░░░░░░░░░░░░░░░   32.08 %
+Bash   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
