@@ -5,8 +5,8 @@
 
 <!--START_SECTION:waka-->
 
-```text
-Bash   0 secs          █████████████████████████   100.00 %
+```txt
+Other   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
