@@ -6,7 +6,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go       15 mins         ██████████████████████▒░░   89.72 %
+Docker   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
 ```
 
 <!--END_SECTION:waka-->
