@@ -1,8 +1,9 @@
 ## Hey! my name is Daniel
 
-- Work: FullStack - Developer
-- studying: Backend developer
+- Work: FullStack (Php/JavaScript)
+- Studying: Golang
 
+## what I've been working with
 <!--START_SECTION:waka-->
 
 ```txt
