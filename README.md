@@ -7,11 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go           2 hrs 42 mins   ████████████▓░░░░░░░░░░░░   50.33 %
-TypeScript   1 hr 55 mins    █████████░░░░░░░░░░░░░░░░   35.69 %
-PHP          39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
