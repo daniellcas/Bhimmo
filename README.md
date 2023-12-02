@@ -7,11 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          41 mins         ████████████▓░░░░░░░░░░░░   50.30 %
-TypeScript   30 mins         █████████▒░░░░░░░░░░░░░░░   37.25 %
-Vue.js       8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Docker       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
